@@ -24,3 +24,12 @@ body {
 .apple {
   background-color: blue;
 }
+
+#start {
+  margin-top: 10px;
+  padding: 10px 20px;
+  font-size: 15px;
+  border-radius: 12px;
+  border: solid 0.5px black;
+  outline: none;
+}
